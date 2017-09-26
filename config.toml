@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+# Page settings
+baseurl = "http://www.jashuawhite.com"
+title = "Jashua R. White"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hugo-tranquilpeak-theme"
+publishDir = "docs"
+relativeURLs = true
