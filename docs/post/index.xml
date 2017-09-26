@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jashua R. White</title>
-    <link>http://www.jashuawhite.com/</link>
-    <description>Recent content on Jashua R. White</description>
+    <title>Posts on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/post/</link>
+    <description>Recent content in Posts on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
     
-	<atom:link href="http://www.jashuawhite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jashuawhite.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://www.jashuawhite.com/page/contact/</link>
-      <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/page/contact/</guid>
-      <description></description>
     </item>
     
   </channel>

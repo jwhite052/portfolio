@@ -10,5 +10,23 @@
 	<atom:link href="http://www.jashuawhite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Category</title>
+      <link>http://www.jashuawhite.com/categories/category/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subcategory</title>
+      <link>http://www.jashuawhite.com/categories/subcategory/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

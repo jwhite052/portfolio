@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
     
 	<atom:link href="http://www.jashuawhite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tag1</title>
+      <link>http://www.jashuawhite.com/tags/tag1/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>http://www.jashuawhite.com/tags/tag2/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/tag2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
