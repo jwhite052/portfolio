@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Jashua R. White</title>
-    <link>http://www.jashuawhite.com/categories/category/</link>
+    <link>https://jwhite052.github.io/portfolio/categories/category/</link>
     <description>Recent content in Category on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
     
-	<atom:link href="http://www.jashuawhite.com/categories/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jwhite052.github.io/portfolio/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
+      <link>https://jwhite052.github.io/portfolio/2017/09/first-post/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
+      <guid>https://jwhite052.github.io/portfolio/2017/09/first-post/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.jashuawhite.com/page/contact/</link>
+      <link>https://jwhite052.github.io/portfolio/page/contact/</link>
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/page/contact/</guid>
+      <guid>https://jwhite052.github.io/portfolio/page/contact/</guid>
       <description></description>
     </item>
     
