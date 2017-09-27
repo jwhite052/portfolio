@@ -2,29 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jashua R. White</title>
-    <link>https://jwhite052.github.io/portfolio/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jwhite052.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category</title>
-      <link>https://jwhite052.github.io/portfolio/categories/category/</link>
-      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      <link>/categories/category/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/categories/category/</guid>
+      <guid>/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Releases</title>
+      <link>/categories/releases/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subcategory</title>
-      <link>https://jwhite052.github.io/portfolio/categories/subcategory/</link>
-      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      <link>/categories/subcategory/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/categories/subcategory/</guid>
+      <guid>/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tranquilpeak</title>
+      <link>/categories/tranquilpeak/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     

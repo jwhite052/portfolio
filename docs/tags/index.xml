@@ -2,30 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jashua R. White</title>
-    <link>https://jwhite052.github.io/portfolio/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 18:15:15 -0400</lastBuildDate>
     
-	<atom:link href="https://jwhite052.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tag1</title>
-      <link>https://jwhite052.github.io/portfolio/tags/tag1/</link>
-      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      <title>Disqus</title>
+      <link>/tags/disqus/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/tags/tag1/</guid>
+      <guid>/tags/disqus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Analytics</title>
+      <link>/tags/google-analytics/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/tags/google-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravatar</title>
+      <link>/tags/gravatar/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/tags/gravatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo Theme</title>
+      <link>/tags/hexo-theme/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/tags/hexo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive</title>
+      <link>/tags/responsive/</link>
+      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>/tags/tag1/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
+      
+      <guid>/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag2</title>
-      <link>https://jwhite052.github.io/portfolio/tags/tag2/</link>
-      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      <link>/tags/tag2/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/tags/tag2/</guid>
+      <guid>/tags/tag2/</guid>
       <description></description>
     </item>
     

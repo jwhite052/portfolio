@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Jashua R. White</title>
-    <link>https://jwhite052.github.io/portfolio/categories/category/</link>
+    <link>/categories/category/</link>
     <description>Recent content in Category on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 18:33:23 -0400</lastBuildDate>
     
-	<atom:link href="https://jwhite052.github.io/portfolio/categories/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>/page/about/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>First Post</title>
-      <link>https://jwhite052.github.io/portfolio/2017/09/first-post/</link>
+      <link>/2017/09/first-post/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/2017/09/first-post/</guid>
+      <guid>/2017/09/first-post/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://jwhite052.github.io/portfolio/page/contact/</link>
+      <link>/page/contact/</link>
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
-      <guid>https://jwhite052.github.io/portfolio/page/contact/</guid>
+      <guid>/page/contact/</guid>
       <description></description>
     </item>
     
