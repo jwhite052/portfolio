@@ -13,10 +13,10 @@
     
     <item>
       <title>About</title>
-      <link>/page/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>Contact</title>
-      <link>/page/contact/</link>
+      <link>/contact/</link>
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
-      <guid>/page/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     

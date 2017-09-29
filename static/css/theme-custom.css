@@ -5,7 +5,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(50,50,255,0.5);
+  background-color: rgba(50,0,200,0.7);
 }
 #sidebar::-webkit-scrollbar {
   width: .7em;
@@ -16,6 +16,24 @@
   background-color: rgba(255,255,255,0.2);
 }
 #sidebar::-webkit-scrollbar-thumb {
-background-color: rgba(255,255,255,0.5);
-outline: none;
+  background-color: rgba(255,255,255,0.5);
+  outline: none;
+}
+.post-header-cover {
+  position: relative;
+}
+.post-header-cover * {
+  position: relative;
+  z-index: 1;
+}
+.post-header-cover::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: block;
+  background-color: rgba(50,0,200,0.7);
+  z-index: 0;
 }
