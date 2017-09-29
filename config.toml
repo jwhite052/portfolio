@@ -9,7 +9,7 @@ disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = false # default was true
-relativeurls = false
+relativeurls = true
 publishDir = "docs"
 
 [permalinks]
