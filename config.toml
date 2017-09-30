@@ -8,7 +8,7 @@ theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jashua-white"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyurls = true # default was true
+canonifyurls = false # default was true
 relativeurls = false
 publishDir = "docs"
 
