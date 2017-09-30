@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jashua R. White</title>
-    <link>http://www.jashuawhite.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Sep 2017 18:15:15 -0400</lastBuildDate>
     
-	<atom:link href="http://www.jashuawhite.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Greetings from Philadelphia!</title>
-      <link>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</link>
+      <link>/2017/09/greetings-from-philadelphia/</link>
       <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</guid>
+      <guid>/2017/09/greetings-from-philadelphia/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
+      <link>/2017/09/first-post/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
+      <guid>/2017/09/first-post/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
