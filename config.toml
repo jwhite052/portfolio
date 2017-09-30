@@ -1,5 +1,5 @@
 # Page settings
-baseurl = ""
+baseurl = "http://www.jashuawhite.com"
 #baseurl = "" # leave blank
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
