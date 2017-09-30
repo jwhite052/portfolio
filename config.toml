@@ -1,15 +1,15 @@
 # Page settings
-#baseurl = "https://jwhite052.github.io/portfolio/"
-baseurl = "" # leave blank
+baseurl = "http://www.jashuawhite.com"
+#baseurl = "" # leave blank
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Jashua R. White"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "jashua-white"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = false # default was true
-relativeurls = true
+relativeurls = false
 publishDir = "docs"
 
 [permalinks]
@@ -135,7 +135,7 @@ publishDir = "docs"
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
   # coverImage = "cover.jpg"
-  coverImage = "cover.jpg"
+  coverImage = "cover-philadelphia-bridge-2200x1467.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -164,7 +164,7 @@ publishDir = "docs"
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  customCSS = ["css/theme-custom.css"]
+  customCSS = ["/css/theme-custom.css"]
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example

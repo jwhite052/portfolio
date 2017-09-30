@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subcategory on Jashua R. White</title>
-    <link>/categories/subcategory/</link>
+    <link>http://www.jashuawhite.com/categories/subcategory/</link>
     <description>Recent content in Subcategory on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Sep 2017 18:33:23 -0400</lastBuildDate>
     
-	<atom:link href="/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jashuawhite.com/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://www.jashuawhite.com/about/</link>
       <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://www.jashuawhite.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>/2017/09/first-post/</link>
+      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>/2017/09/first-post/</guid>
+      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://www.jashuawhite.com/contact/</link>
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://www.jashuawhite.com/contact/</guid>
       <description></description>
     </item>
     

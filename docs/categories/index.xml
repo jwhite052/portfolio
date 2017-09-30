@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jashua R. White</title>
-    <link>/categories/</link>
+    <link>http://www.jashuawhite.com/categories/</link>
     <description>Recent content in Categories on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jashuawhite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category</title>
-      <link>/categories/category/</link>
+      <link>http://www.jashuawhite.com/categories/category/</link>
       <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>/categories/category/</guid>
+      <guid>http://www.jashuawhite.com/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Releases</title>
-      <link>/categories/releases/</link>
+      <link>http://www.jashuawhite.com/categories/releases/</link>
       <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
       
-      <guid>/categories/releases/</guid>
+      <guid>http://www.jashuawhite.com/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subcategory</title>
-      <link>/categories/subcategory/</link>
+      <link>http://www.jashuawhite.com/categories/subcategory/</link>
       <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
       
-      <guid>/categories/subcategory/</guid>
+      <guid>http://www.jashuawhite.com/categories/subcategory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tranquilpeak</title>
-      <link>/categories/tranquilpeak/</link>
+      <link>http://www.jashuawhite.com/categories/tranquilpeak/</link>
       <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
       
-      <guid>/categories/tranquilpeak/</guid>
+      <guid>http://www.jashuawhite.com/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
