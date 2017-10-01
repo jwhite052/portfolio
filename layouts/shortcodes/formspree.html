@@ -1,0 +1,8 @@
+<form id="contact-form" method="POST" action="{{ if .Get "url" }}{{ .Get "url" }}{{ else }}http://formspree.io/jashuawhite@gmail.com{{ end }}">
+  <input type="email" name="_replyto" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <input type="hidden" name="_subject" value="{{ if .Get "subject" }}{{ .Get "subject" }}{{ else }}New Contact Message - www.JashuaWhite.com{{ end }}" />
+  <input type="hidden" name="_next" value="//jashua.io/thanks.html" />
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit">Send Message</button>
+</form>

@@ -1,3 +1,4 @@
+/* Page Background Cover */
 #cover::after {
   content: '';
   position: absolute;
@@ -7,18 +8,7 @@
   height: 100%;
   background-color: rgba(50,0,200,0.7);
 }
-#sidebar::-webkit-scrollbar {
-  width: .7em;
-}
-#sidebar::-webkit-scrollbar-track {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  background-color: rgba(255,255,255,0.2);
-}
-#sidebar::-webkit-scrollbar-thumb {
-  background-color: rgba(255,255,255,0.5);
-  outline: none;
-}
+/* Header Cover */
 .post-header-cover {
   position: relative;
 }
@@ -36,4 +26,65 @@
   display: block;
   background-color: rgba(50,0,200,0.7);
   z-index: 0;
+}
+/* Sidebar */
+#sidebar::-webkit-scrollbar {
+  width: .7em;
+}
+#sidebar::-webkit-scrollbar-track {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background-color: rgba(255,255,255,0.2);
+}
+#sidebar::-webkit-scrollbar-thumb {
+  background-color: rgba(255,255,255,0.5);
+  outline: none;
+}
+/* Contact Form */
+#contact-form {
+  font-family: "Open Sans", sans-serif;
+}
+#contact-form * {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+#contact-form input[type="email"] {
+  font-size: 21px;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0px 20px;
+  border: 1px solid #ccc;
+}
+#contact-form textarea[name="message"] {
+  padding: 10px 20px;
+  font-size: 21px;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+#contact-form .focus {
+  background: #f2f2f2;
+}
+#contact-form .valid {
+  background: #ddffe6 !important;
+  border-color: green !important;
+}
+#contact-form .invalid {
+  background: #fcbcbc !important;
+  border-color: red !important;
+}
+#contact-form input,
+#contact-form textarea,
+#contact-form button {
+
+}
+#contact-form button {
+  font-size: 21px;
+  border: 1px solid #ccc;
+  background-color: #f2f2f2;
+  padding: 10px 20px;
+  width: 100%;
 }

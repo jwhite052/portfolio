@@ -44,35 +44,41 @@ publishDir = "docs"
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "search"
-  name = "Search"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
-  url = "/#search"
-  class = "st-search-show-outputs"
-[[menu.main]]
-  weight = 6
   identifier = "about"
   name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-id-badge\"></i>"
   url = "/about"
+[[menu.main]]
+  weight = 3
+  identifier = "contact"
+  name = "Contact"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+  url = "/contact"
+# [[menu.main]]
+#   weight = 3
+#   identifier = "categories"
+#   name = "Categories"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+#   url = "/categories"
+# [[menu.main]]
+#   weight = 4
+#   identifier = "tags"
+#   name = "Tags"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+#   url = "/tags"
+# [[menu.main]]
+#   weight = 5
+#   identifier = "archives"
+#   name = "Archives"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+#   url = "/archives"
+# [[menu.main]]
+#   weight = 6
+#   identifier = "search"
+#   name = "Search"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
+#   url = "/#search"
+#   class = "st-search-show-outputs"
 
 [[menu.links]]
   weight = 1
@@ -86,6 +92,18 @@ publishDir = "docs"
   name = "Stack Overflow"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
   url = "https://stackexchange.com/users/6712808/jashua-white"
+[[menu.links]]
+  weight = 3
+  identifier = "codepen"
+  name = "Codepen"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-codepen\"></i>"
+  url = "https://codepen.io/jashuawhite/"
+[[menu.links]]
+  weight = 4
+  identifier = "linkedin"
+  name = "LinkedIn"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
+  url = "https://www.linkedin.com/in/jashuawhite"
 
 # [[menu.misc]]
 #   weight = 0
@@ -168,7 +186,7 @@ publishDir = "docs"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
-  # customJS = ["js/foo.js"]
+  customJS = ["/js/theme-custom.js"]
 
   # Sharing options
   # Comment and uncomment to enable or disable sharing options
@@ -196,8 +214,8 @@ publishDir = "docs"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
-  #   url = "/#about"
+  #   url = "/#profile"
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+  [params.footer]
+    copyright = "<a href=\"http://www.jashuawhite.com\">Jashua R. White</a>.<br>Made with <i class=\"fa fa-heart\" style=\"color: red;\"></i>. Feuled by <i class=\"fa fa-coffee\" style=\"color: brown;\"></i>.<br>"
