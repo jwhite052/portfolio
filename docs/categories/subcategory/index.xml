@@ -6,10 +6,19 @@
     <description>Recent content in Subcategory on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 18:33:23 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 15:44:46 -0400</lastBuildDate>
     
 	<atom:link href="http://www.jashuawhite.com/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://www.jashuawhite.com/portfolio/</link>
+      <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/portfolio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -36,7 +45,7 @@ Currently, I am a full-time web developer for Thomas Jefferson University Hospit
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
       <guid>http://www.jashuawhite.com/contact/</guid>
-      <description>Send Message</description>
+      <description>Send Message.submit-overlay {position:absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;}.loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}@keyframes lds-pacman-1 {0% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}50% {-webkit-transform: rotate(-45deg);transform: rotate(-45deg);}100% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}}@-webkit-keyframes lds-pacman-1 {0% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}50% {-webkit-transform: rotate(-45deg);transform: rotate(-45deg);}100% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}}@keyframes lds-pacman-2 {0% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}50% {-webkit-transform: rotate(225deg);transform: rotate(225deg);}100% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}}@-webkit-keyframes lds-pacman-2 {0% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}50% {-webkit-transform: rotate(225deg);transform: rotate(225deg);}100% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}}@keyframes lds-pacman-3 {0% {-webkit-transform: translate(190px, 0);transform: translate(190px, 0);opacity: 0;}20% {opacity: 1;}100% {-webkit-transform: translate(70px, 0);transform: translate(70px, 0);opacity: 1;}}@-webkit-keyframes lds-pacman-3 {0% {-webkit-transform: translate(190px, 0);transform: translate(190px, 0);opacity: 0;}20% {opacity: 1;}100% {-webkit-transform: translate(70px, 0);transform: translate(70px, 0);opacity: 1;}}.</description>
     </item>
     
   </channel>

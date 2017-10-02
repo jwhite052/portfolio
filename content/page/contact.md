@@ -9,7 +9,7 @@ keywords:
 - tech
 comments:       false
 showMeta:       false
-showActions:    false
+showActions:    true
 #thumbnailImage: //example.com/image.jpg
 ---
 

@@ -44,12 +44,23 @@ $(document).ready(function() {
     }
   });
 
-  $form_submit.on({
-    'click': function(e) {
+  $form.on({
+    'submit': function(e) {
+      e.preventDefault();
       if (validateEmail($field_email.val()) && validateMessage($field_message.val())) {
-        alert('Submitted successfully!');
-      } else {
-        e.preventDefault();
+        $('.submit-overlay').show();
+        $.ajax({
+          url: "//formspree.io/jashuawhite@gmail.com",
+          method: "POST",
+          data: {
+            message: $field_message
+          },
+          dataType: "json",
+          success: function() {
+            console.log("Success!");
+            $('.submit-overlay').hide();
+          }
+        });
       }
     }
   });
@@ -60,8 +71,5 @@ $(document).ready(function() {
   }
   function validateMessage(message) {
     return message.length >= 10 ? true : false;
-  }
-  function validateForm() {
-
   }
 });

@@ -1,7 +1,8 @@
 {{ if .Params.coverimage }}
   <div class="post-header-cover
               {{ if .Params.metaalignment }}text-{{ .Params.metaalignment }}{{ else }}text-left{{ end }}
-              {{ with .Params.coversize }}post-header-cover--{{ . }}{{ end }}"
+              {{ with .Params.coversize }}post-header-cover--{{ . }}{{ end }}
+              {{ with .Params.coveroverlaycolor }}post-header-cover-overlay--{{ . }}{{ end }}"
        style="background-image:url('{{ .Params.coverimage | absURL }}')"
        data-behavior="{{ $.Scratch.Get "sidebarBehavior" }}">
     {{ if or (eq .Params.covermeta "in") (not .Params.covermeta) }}

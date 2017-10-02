@@ -27,6 +27,12 @@
   background-color: rgba(50,0,200,0.7);
   z-index: 0;
 }
+.post-header-cover.post-header-cover-overlay--red::after {
+  background-color: rgba(40,0,0,0.7);
+}
+.post-header-cover.post-header-cover-overlay--black::after {
+  background-color: rgba(0,0,0,0.7);
+}
 /* Sidebar */
 #sidebar::-webkit-scrollbar {
   width: .7em;

@@ -49,11 +49,17 @@ publishDir = "docs"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-id-badge\"></i>"
   url = "/about"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "contact"
   name = "Contact"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
   url = "/contact"
+[[menu.main]]
+  weight = 3
+  identifier = "portfolio"
+  name = "Portfolio"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-folder\"></i>"
+  url = "/portfolio"
 # [[menu.main]]
 #   weight = 3
 #   identifier = "categories"
