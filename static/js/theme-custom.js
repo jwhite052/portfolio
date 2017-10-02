@@ -1,9 +1,10 @@
 $(document).ready(function() {
   var $form = $('#contact-form');
-  var $field_email = $form.find('input[name="_replyto"]');
+  var $field_subject = $form.find('input[name="subject"]');
+  var $field_email = $form.find('input[name="email"]');
   var $field_message = $form.find('textarea[name="message"]');
   var $form_submit = $form.find('button');
-  var $form_inputs = $form.find('input[name="_replyto"], textarea[name="message"]');
+  var $form_input_fields = $form.find('input[name="email"], textarea[name="message"]');
 
   /* Validation */
 
@@ -11,7 +12,7 @@ $(document).ready(function() {
     return event.keyCode != 13;
   });
 
-  $form_inputs.on({
+  $form_input_fields.on({
     'focusin': function() {
       $(this).addClass('focus');
     },
@@ -50,19 +51,31 @@ $(document).ready(function() {
 
   $form_submit.on({
     'click': function(e) {
-      if (validateEmail($field_email.val()) && validateMessage($field_message.val())) {
-        $('.submit-overlay').fadeIn();
-        console.log("Message submitted.");
+      var email = $field_email.val();
+      var subject = $field_subject.val();
+      var message = $field_message.val();
+      e.preventDefault();
+      if (validateEmail(email) && validateMessage(message)) {
         $.ajax({
           url: "//formspree.io/eaglesfan316@gmail.com",
           method: "POST",
           data: {
-            message: $field_message
+            "_subject": subject,
+            "email": email,
+            "message": message
           },
           dataType: "json",
+          beforeSend: function() {
+            $('.submit-overlay-sending').fadeIn();
+            console.log("Message submitted.");
+          },
           success: function() {
-            setTimeout(function(){ console.log("Message successfully sent."); }, 3000);
-            $('.submit-overlay').fadeOut();
+            $('.submit-overlay-sending').delay(3000).fadeOut(function() {
+              $form[0].reset();
+              $('.submit-overlay-success').fadeIn().delay(4000).fadeOut();
+            });
+            $form.find('.valid').removeClass('valid');
+            $form.find('.invalid').removeClass('invalid');
           }
         });
       }

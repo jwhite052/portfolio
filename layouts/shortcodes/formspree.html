@@ -1,34 +1,71 @@
 <div class="formspree-form">
 
-<form id="contact-form" method="POST">
-  <input type="email" name="_replyto" placeholder="Your email">
+<form id="contact-form" method="POST" novalidate>
+  <input type="email" name="email" placeholder="Your email" />
   <textarea name="message" placeholder="Your message"></textarea>
-  <input type="hidden" name="_subject" value="{{ if .Get "subject" }}{{ .Get "subject" }}{{ else }}New Contact Message - www.JashuaWhite.com{{ end }}" />
+  <input type="hidden" name="subject" value="{{ if .Get "subject" }}{{ .Get "subject" }}{{ else }}New Contact Message - www.JashuaWhite.com{{ end }}" />
   <button class="submit">Send Message</button>
   <style>
   .formspree-form {
     position: relative;
   }
-.submit-overlay {
-  position:absolute;
+.submit-overlay-sending {
+  position:fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0.9);
   display: none;
+  z-index: 1000;
 }
-.loading-icon {
+.submit-overlay-sending__loading-icon {
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
   left: 50%;
 }
+.submit-overlay-sending__text {
+  position: absolute;
+  top: calc(50% + 100px);
+  transform: translate(-50%, -50%);
+  left: 50%;
+}
+.submit-overlay-success {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: calc(100% - 50px);
+  height: calc(100% - 50px);
+  background-color: rgba(0,0,0,0.9);
+  display: none;
+  border-radius: 10px;
+}
+.submit-overlay-success__body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 200px;
+  max-width: 400px;
+  color: #fff;
+}
+.submit-overlay-success__body h3 {
+  text-align: center;
+}
+.submit-overlay-success__body p span {
+  display: block;
+  text-align: right;
+  font-style: italic;
+}
   </style>
 </form>
 
-<div class="submit-overlay">
-  <div class="loading-icon">
+<div class="submit-overlay-sending">
+  <div class="submit-overlay-sending__body">
+    <div class="submit-overlay-sending__loading-icon">
+
     <div class="lds-css ng-scope">
       <div style="width:100%;height:100%" class="lds-pacman">
         <div>
@@ -176,8 +213,22 @@
       -webkit-transform: translate(-107.5px, -107.5px) scale(1.075) translate(107.5px, 107.5px);
       transform: translate(-107.5px, -107.5px) scale(1.075) translate(107.5px, 107.5px);
     }
-    </style></div>
+    </style>
+  </div>
 </div>
-
+  <div class="submit-overlay-sending__text">
+    Sending message...
+  </div>
+</div>
+</div>
+<div class="submit-overlay-success">
+  <div class="submit-overlay-success__body">
+    <h3>Message sent!</h3>
+    <p>
+      Thank you &ndash; I'll take a look over things and get back to you shortly.
+      <span>&mdash; Jash</span>
+    </p>
+  </div>
+</div>
 
 </div>
