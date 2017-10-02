@@ -46,9 +46,9 @@ $(document).ready(function() {
 
   $form.on({
     'submit': function(e) {
-      e.preventDefault();
       if (validateEmail($field_email.val()) && validateMessage($field_message.val())) {
         $('.submit-overlay').show();
+        console.log("Message submitted.");
         $.ajax({
           url: "//formspree.io/jashuawhite@gmail.com",
           method: "POST",
@@ -57,10 +57,11 @@ $(document).ready(function() {
           },
           dataType: "json",
           success: function() {
-            console.log("Success!");
+            console.log("Message successfully sent.");
             $('.submit-overlay').hide();
           }
         });
+        e.preventDefault();
       }
     }
   });

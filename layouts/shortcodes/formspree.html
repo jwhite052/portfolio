@@ -1,4 +1,4 @@
-<form style="position: relative;" id="contact-form" method="POST" action="{{ if .Get "url" }}{{ .Get "url" }}{{ else }}http://formspree.io/jashuawhite@gmail.com{{ end }}">
+<form style="position: relative;" id="contact-form">
   <input type="email" name="_replyto" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="hidden" name="_subject" value="{{ if .Get "subject" }}{{ .Get "subject" }}{{ else }}New Contact Message - www.JashuaWhite.com{{ end }}" />
