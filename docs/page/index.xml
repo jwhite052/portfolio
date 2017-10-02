@@ -1,43 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Jashua R. White</title>
-    <link>http://www.jashuawhite.com/page/</link>
-    <description>Recent content in Pages on Jashua R. White</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 15:44:46 -0400</lastBuildDate>
-    
-	<atom:link href="http://www.jashuawhite.com/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Portfolio</title>
-      <link>http://www.jashuawhite.com/portfolio/</link>
-      <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/portfolio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.jashuawhite.com/about/</link>
-      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/about/</guid>
-      <description>I&amp;rsquo;m a developer and designer actively pursuing my passion to provide digital design and development services both nationally and locally to small businesses here in Philadelphia. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the wonderful shops and restaurants Philadelphia has to offer.
-Currently, I am a full-time web developer for Thomas Jefferson University Hospital &amp;ndash; a major medical university and healthcare provider in Philadelphia. Some of my responsibilities include: developing responsive web pages, designing templates for various departments and campaign sites, maintaining content, troubleshooting bugs, e-mail marketing, and developing for the front-end development side of our CMS, Adobe Experience Manager (AEM).</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://www.jashuawhite.com/contact/</link>
-      <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/contact/</guid>
-      <description>Send Message.submit-overlay {position:absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;}.loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}@keyframes lds-pacman-1 {0% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}50% {-webkit-transform: rotate(-45deg);transform: rotate(-45deg);}100% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}}@-webkit-keyframes lds-pacman-1 {0% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}50% {-webkit-transform: rotate(-45deg);transform: rotate(-45deg);}100% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}}@keyframes lds-pacman-2 {0% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}50% {-webkit-transform: rotate(225deg);transform: rotate(225deg);}100% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}}@-webkit-keyframes lds-pacman-2 {0% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}50% {-webkit-transform: rotate(225deg);transform: rotate(225deg);}100% {-webkit-transform: rotate(180deg);transform: rotate(180deg);}}@keyframes lds-pacman-3 {0% {-webkit-transform: translate(190px, 0);transform: translate(190px, 0);opacity: 0;}20% {opacity: 1;}100% {-webkit-transform: translate(70px, 0);transform: translate(70px, 0);opacity: 1;}}@-webkit-keyframes lds-pacman-3 {0% {-webkit-transform: translate(190px, 0);transform: translate(190px, 0);opacity: 0;}20% {opacity: 1;}100% {-webkit-transform: translate(70px, 0);transform: translate(70px, 0);opacity: 1;}}.</description>
-    </item>
-    
-  </channel>
-</rss>
