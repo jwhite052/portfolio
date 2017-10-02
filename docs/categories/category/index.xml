@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/categories/category/</link>
+    <description>Recent content in Category on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 15:44:46 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://www.jashuawhite.com/portfolio/</link>
+      <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.jashuawhite.com/about/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/about/</guid>
+      <description>I&amp;rsquo;m a developer and designer actively pursuing my passion to provide digital design and development services both nationally and locally to small businesses here in Philadelphia. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the wonderful shops and restaurants Philadelphia has to offer.
+Currently, I am a full-time web developer for Thomas Jefferson University Hospital &amp;ndash; a major medical university and healthcare provider in Philadelphia. Some of my responsibilities include: developing responsive web pages, designing templates for various departments and campaign sites, maintaining content, troubleshooting bugs, e-mail marketing, and developing for the front-end development side of our CMS, Adobe Experience Manager (AEM).</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.jashuawhite.com/contact/</link>
+      <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/contact/</guid>
+      <description>NameEmailMessageSubmitPlease fill in all form fields
+Thanks for stopping to say Hello!
+</description>
+    </item>
+    
+  </channel>
+</rss>
