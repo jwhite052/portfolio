@@ -1,18 +1,14 @@
 $(document).ready(function() {
   var $form = $('#contact-form');
-  var $field_subject = $form.find('input[name="subject"]');
-  var $field_email = $form.find('input[name="email"]');
-  var $field_message = $form.find('textarea[name="message"]');
-  var $form_submit = $form.find('button');
-  var $form_input_fields = $form.find('input[name="email"], textarea[name="message"]');
+  var $fieldSubject = $form.find('input[name="subject"]');
+  var $fieldEmail = $form.find('input[name="email"]');
+  var $fieldMessage = $form.find('textarea[name="message"]');
+  var $formSubmit = $form.find('button');
+  var $formInputFields = $form.find('input[name="email"], textarea[name="message"]');
 
   /* Validation */
 
-  $form.on("keypress", ":input:not(textarea)", function(event) {
-    return event.keyCode != 13;
-  });
-
-  $form_input_fields.on({
+  $formInputFields.on({
     'focusin': function() {
       $(this).addClass('focus');
     },
@@ -21,64 +17,80 @@ $(document).ready(function() {
     }
   });
 
-  $field_email.on({
+  $fieldEmail.on({
     'keyup': function() {
-      console.log("Focus E-mail");
-      if (validateEmail($(this).val())) {
-        console.log("Valid E-mail");
-        $(this).addClass('valid').removeClass('invalid');
+      var $self = $(this);
+      if (validateEmail($self.val())) {
+        setValid(this);
       } else {
-        console.log("Invalid E-mail");
-        $(this).addClass('invalid').removeClass('valid');
+        setInvalid(this);
       }
     }
   });
 
-  $field_message.on({
+  $fieldMessage.on({
     'keyup': function() {
-      console.log("Focus Message");
-      if (validateMessage($(this).val())) {
-        console.log("Valid Message - Length = " + $(this).val().length);
-        $(this).addClass('valid').removeClass('invalid');
+      var $self = $(this);
+      if (validateMessage($self.val())) {
+        setValid(this);
       } else {
-        console.log("Invalid Message - Length = " + $(this).val().length);
-        $(this).addClass('invalid').removeClass('valid');
+        setInvalid(this);
       }
     }
   });
+
+  function setValid(el) {
+    $(el).addClass('valid').removeClass('invalid');
+  }
+  function setInvalid(el) {
+    $(el).addClass('invalid').removeClass('valid');
+  }
 
   /* Submit */
 
-  $form_submit.on({
+  $formSubmit.on({
     'click': function(e) {
-      var email = $field_email.val();
-      var subject = $field_subject.val();
-      var message = $field_message.val();
+      var emailValue = $fieldEmail.val();
+      var subjectValue = $fieldSubject.val();
+      var messageValue = $fieldMessage.val();
+      var isFormValid = true;
+
       e.preventDefault();
-      if (validateEmail(email) && validateMessage(message)) {
-        $.ajax({
-          url: "//formspree.io/eaglesfan316@gmail.com",
-          method: "POST",
-          data: {
-            "_subject": subject,
-            "email": email,
-            "message": message
-          },
-          dataType: "json",
-          beforeSend: function() {
-            $('.submit-overlay-sending').fadeIn();
-            console.log("Message submitted.");
-          },
-          success: function() {
-            $('.submit-overlay-sending').delay(3000).fadeOut(function() {
-              $form[0].reset();
-              $('.submit-overlay-success').fadeIn().delay(4000).fadeOut();
-            });
-            $form.find('.valid').removeClass('valid');
-            $form.find('.invalid').removeClass('invalid');
-          }
-        });
+
+      if (!validateEmail(emailValue)) {
+        setInvalid($fieldEmail.get(0));
+        isFormValid = false;
       }
+      if (!validateMessage(messageValue)) {
+        setInvalid($fieldMessage.get(0));
+        isFormValid = false;
+      }
+      if (!isFormValid) {
+        return;
+      }
+
+      $.ajax({
+        url: "//formspree.io/eaglesfan316@gmail.com",
+        method: "POST",
+        data: {
+          "subject": subject_value,
+          "email": emailValue,
+          "message": messageValue
+        },
+        dataType: "json",
+        beforeSend: function() {
+          $('.submit-overlay-sending').fadeIn();
+          console.log("Message submitted.");
+        },
+        success: function() {
+          $('.submit-overlay-sending').delay(3000).fadeOut(function() {
+            $form[0].reset();
+            $('.submit-overlay-success').fadeIn().delay(4000).fadeOut();
+          });
+          $form.find('.valid').removeClass('valid');
+          $form.find('.invalid').removeClass('invalid');
+        }
+      });
     }
   });
 

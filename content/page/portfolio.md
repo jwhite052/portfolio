@@ -21,3 +21,5 @@ metaAlignment: center
 coverOverlayColor: black
 #thumbnailImage: //example.com/image.jpg
 ---
+
+Coming soon...

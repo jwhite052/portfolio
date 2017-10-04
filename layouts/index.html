@@ -9,7 +9,7 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
           {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-          {{ range $paginator.Pages }}
+          {{ range $paginator.Pages.ByWeight }}
             {{ .Render "summary" }}
           {{ end }}
           {{ partial "pagination.html" . }}
