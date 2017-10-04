@@ -6,10 +6,23 @@
     <description>Recent content on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 15:44:46 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 18:15:15 -0400</lastBuildDate>
     
 	<atom:link href="http://www.jashuawhite.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to my home on the web</title>
+      <link>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</guid>
+      <description>&lt;p&gt;So what&amp;rsquo;s the purpose of this site you ask? Great question &amp;ndash; I knew I&amp;rsquo;d like you. If I were to construct one of those meta-thinking, revolutionary, innovative, change-the-world type missions statements it would go something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A resource hub for those with a passion to educate, empower, and equip like-minded developers with the tools to create amazing applications.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
     
     <item>
       <title>Portfolio</title>
@@ -17,7 +30,7 @@
       <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
       
       <guid>http://www.jashuawhite.com/portfolio/</guid>
-      <description></description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -31,22 +44,12 @@ Currently, I am a full-time web developer for Thomas Jefferson University Hospit
     </item>
     
     <item>
-      <title>Greetings from Philadelphia!</title>
-      <link>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</link>
-      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</guid>
-      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
+      <title>Setting up an AJAX-based Formspree form</title>
+      <link>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</guid>
+      <description>&lt;p&gt;Back when I converted my site from WordPress to Hugo, one of the issues I had to take care of was setting up a processor for my contact form. I decided to go with Formspree as their free tier easily handled the amount of form submissions I got per month.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,7 +58,7 @@ Currently, I am a full-time web developer for Thomas Jefferson University Hospit
       <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
       
       <guid>http://www.jashuawhite.com/contact/</guid>
-      <description>Send Message.formspree-form {position: relative;}.submit-overlay-sending {position:fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;z-index: 1000;}.submit-overlay-sending__loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}.submit-overlay-sending__text {position: absolute;top: calc(50% + 100px);transform: translate(-50%, -50%);left: 50%;}.submit-overlay-success {position:absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: calc(100% - 50px);height: calc(100% - 50px);background-color: rgba(0,0,0,0.</description>
+      <description>@import url(&#39;https://fonts.googleapis.com/css?family=Press+Start+2P&#39;);Send Message.formspree-form {position: relative;}.submit-overlay-sending {position:fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;z-index: 1000;}.submit-overlay-sending__loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}.submit-overlay-sending__text {position: absolute;top: calc(50% + 115px);transform: translate(-50%, -50%);left: 50%;font-family: &#39;Press Start 2P&#39;, sans-serif;color: #fff;text-transform: uppercase;letter-spacing: .2em;}.submit-overlay-success {position:absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: calc(100% - 50px);height: calc(100% - 50px);background-color: rgba(0,0,0,0.</description>
     </item>
     
   </channel>

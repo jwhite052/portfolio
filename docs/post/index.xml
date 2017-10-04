@@ -6,28 +6,31 @@
     <description>Recent content in Posts on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 18:15:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 18:15:15 -0400</lastBuildDate>
     
 	<atom:link href="http://www.jashuawhite.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Greetings from Philadelphia!</title>
-      <link>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</link>
-      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      <title>Welcome to my home on the web</title>
+      <link>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/greetings-from-philadelphia/</guid>
-      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
-&lt;/p&gt;</description>
+      <guid>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</guid>
+      <description>&lt;p&gt;So what&amp;rsquo;s the purpose of this site you ask? Great question &amp;ndash; I knew I&amp;rsquo;d like you. If I were to construct one of those meta-thinking, revolutionary, innovative, change-the-world type missions statements it would go something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A resource hub for those with a passion to educate, empower, and equip like-minded developers with the tools to create amazing applications.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://www.jashuawhite.com/2017/09/first-post/</link>
+      <title>Setting up an AJAX-based Formspree form</title>
+      <link>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</link>
       <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/2017/09/first-post/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</guid>
+      <description>&lt;p&gt;Back when I converted my site from WordPress to Hugo, one of the issues I had to take care of was setting up a processor for my contact form. I decided to go with Formspree as their free tier easily handled the amount of form submissions I got per month.&lt;/p&gt;</description>
     </item>
     
   </channel>

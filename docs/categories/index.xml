@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Jashua R. White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 18:15:15 -0400</lastBuildDate>
     
 	<atom:link href="http://www.jashuawhite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>http://www.jashuawhite.com/categories/blog/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/categories/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Category</title>
@@ -16,15 +26,6 @@
       <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
       
       <guid>http://www.jashuawhite.com/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Releases</title>
-      <link>http://www.jashuawhite.com/categories/releases/</link>
-      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
-      
-      <guid>http://www.jashuawhite.com/categories/releases/</guid>
       <description></description>
     </item>
     
@@ -38,11 +39,11 @@
     </item>
     
     <item>
-      <title>Tranquilpeak</title>
-      <link>http://www.jashuawhite.com/categories/tranquilpeak/</link>
-      <pubDate>Tue, 26 Sep 2017 18:15:15 -0400</pubDate>
+      <title>Tutorial</title>
+      <link>http://www.jashuawhite.com/categories/tutorial/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
       
-      <guid>http://www.jashuawhite.com/categories/tranquilpeak/</guid>
+      <guid>http://www.jashuawhite.com/categories/tutorial/</guid>
       <description></description>
     </item>
     
