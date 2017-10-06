@@ -14,7 +14,6 @@ thumbnailImage: /images/cover-philadelphia-bridge-750x255.jpg
 coverImage: /images/cover-philadelphia-bridge-1500x1000.jpg
 metaAlignment: center
 weight: 1
-
 ---
 
 So what's the purpose of this site you ask? Great question &ndash; I knew I'd like you. If I were to construct one of those meta-thinking, revolutionary, innovative, change-the-world type missions statements it would go something like this:

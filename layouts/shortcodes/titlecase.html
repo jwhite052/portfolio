@@ -1,0 +1,20 @@
+{{ $.Scratch.Add "titlecase-title" (.Get 0) }}
+{{ $.Scratch.Add "titlecase-titlecased" "" }}
+{{ if ($.Scratch.Get "titlecase-title") }}
+  {{ $.Scratch.Add "titlecase-words" (split ($.Scratch.Get "titlecase-title") " ") }}
+  {{ $smallwords := split "a an on the to" " "}}
+  {{ range $index, $word := ($.Scratch.Get "titlecase-words") }}
+    {{ $.Scratch.Add "titlecase-isequal" "false" }}
+    {{ range $index, $smallword := $smallwords }}
+      {{ if eq $word $smallword }}
+        {{ $.Scratch.Set "titlecase-isequal" "true" }}
+      {{ end }}
+    {{ end }}
+    {{ if ne ($.Scratch.Get "titlecase-isequal") "true" }}
+      {{ $word := title $word }}
+      $word: {{ $word }}<br />
+    {{ end }}
+  {{ end }}
+  {{ $.Scratch.Set "titlecase-titlecased" (slice ($.Scratch.Get "titlecase-words")) }}
+  {{ $.Scratch.Get "titlecase-titlecased" }}
+{{ end }}
