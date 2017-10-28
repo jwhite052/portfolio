@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/tags/</link>
+    <description>Recent content in Tags on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 12:22:44 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajax</title>
+      <link>http://www.jashuawhite.com/tags/ajax/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/ajax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.jashuawhite.com/tags/contact/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://www.jashuawhite.com/tags/form/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formspree</title>
+      <link>http://www.jashuawhite.com/tags/formspree/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/formspree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://www.jashuawhite.com/tags/introduction/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static</title>
+      <link>http://www.jashuawhite.com/tags/static/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://www.jashuawhite.com/tags/welcome/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
