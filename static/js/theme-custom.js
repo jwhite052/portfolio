@@ -51,7 +51,7 @@ $(document).ready(function() {
   $formSubmit.on({
     'click': function(e) {
       var emailValue = $fieldEmail.val();
-      var subjectValue = $fieldSubject.val();
+      var subjectValue = $fieldSubject.attr('value');
       var messageValue = $fieldMessage.val();
       var isFormValid = true;
 
@@ -73,7 +73,7 @@ $(document).ready(function() {
         url: "//formspree.io/eaglesfan316@gmail.com",
         method: "POST",
         data: {
-          "subject": subject_value,
+          "subject": subjectValue,
           "email": emailValue,
           "message": messageValue
         },

@@ -1,12 +1,7 @@
 ---
 title: "Portfolio"
 date: 2017-10-01T15:44:46-04:00
-categories:
-- category
-- subcategory
 tags:
-keywords:
-- tech
 comments:       false
 showMeta:       false
 showActions:    true
