@@ -3,18 +3,14 @@
     <div id="blog">
       {{ partial "header.html" . }}
       {{ partial "sidebar.html" . }}
-      {{ partial "post/header-cover.html" . }}
       <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
         class="{{ with .Params.coverimage }}hasCover{{ end }}
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
-          {{ .Content }}
-          {{ $paginator := .Paginate .Data.Pages }}
-          {{ range $paginator.Pages }}
-            {{ .Render "summary" }}
-          {{ end }}
-          {{ partial "pagination.html" . }}
+          <h1>404 Not Found</h1>
+          <p>Sorry, but we couldn't find the page you're looking for.</p>
+          <p>Please head back <a href="/">home</a>.</p>
         </section>
         {{ partial "footer.html" . }}
       </div>

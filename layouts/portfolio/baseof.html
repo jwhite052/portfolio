@@ -3,15 +3,13 @@
     <div id="blog">
       {{ partial "header.html" . }}
       {{ partial "sidebar.html" . }}
-      {{ partial "post/header-cover.html" . }}
       <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
         class="{{ with .Params.coverimage }}hasCover{{ end }}
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
-          {{ .Content }}
-          {{ $paginator := .Paginate .Data.Pages }}
-          {{ range $paginator.Pages }}
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "portfolio") }}
+          {{ range $paginator.Pages.ByWeight }}
             {{ .Render "summary" }}
           {{ end }}
           {{ partial "pagination.html" . }}

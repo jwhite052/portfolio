@@ -126,7 +126,7 @@ publishDir = "docs"
   # dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
-  keywords = ["development", "portfolio"]
+  keywords = ["portfolio","web development","freelance","applications","tutorials","html","css","javascript"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -135,7 +135,7 @@ publishDir = "docs"
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "My work - for the world to enjoy."
+  description = "My journey in web development."
 
   # Customization
   # Define the behavior of the sidebar

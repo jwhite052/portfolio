@@ -1,7 +1,12 @@
 ---
-title: "Portfolio"
+title: "Portfolio Old"
 date: 2017-10-01T15:44:46-04:00
+categories:
+- portfolio
 tags:
+- examples
+keywords:
+- tech
 comments:       false
 showMeta:       false
 showActions:    true

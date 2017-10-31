@@ -7,7 +7,7 @@
   <input type="email" name="email" placeholder="Your email" />
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="hidden" name="subject" value="{{ if .Get "subject" }}{{ .Get "subject" }}{{ else }}New Contact Message - www.JashuaWhite.com{{ end }}" />
-  <button class="submit">Send Message</button>
+  <button class="submit" type="submit" disabled>Send Message</button>
   <style>
   .formspree-form {
     position: relative;
