@@ -8,6 +8,7 @@
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
+          <h1>Portfolio Template</h1>
           {{ $paginator := .Paginate (where .Data.Pages "Type" "portfolio") }}
           {{ range $paginator.Pages.ByWeight }}
             {{ .Render "summary" }}
