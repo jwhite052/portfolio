@@ -1,7 +1,6 @@
 ---
-title: "Portfolio"
+title: "Test project"
 date: 2017-10-30T20:07:49-04:00
-type: portfolio
 categories:
 - category
 - subcategory
@@ -15,4 +14,4 @@ showMeta:       false
 showActions:    false
 #thumbnailImage: //example.com/image.jpg
 ---
-This is the portfolio page.
+This is a test project page.

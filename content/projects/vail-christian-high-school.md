@@ -1,8 +1,6 @@
 ---
 title: "Vail Christian High School"
 date: 2017-10-30T20:07:49-04:00
-type: portfolio
-layout: portfoliopiece
 categories:
 - category
 - subcategory
