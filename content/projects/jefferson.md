@@ -1,18 +1,26 @@
 ---
-title: "Vail Christian High School"
+title: "Jefferson"
 date: 2017-10-30T20:07:49-04:00
 categories:
-- category
-- subcategory
+- project
 tags:
-- tag1
-- tag2
+- website
+- application
+- aem
+- javascript
+- html
+- css
+- photoshop
+- jquery
 keywords:
-- tech
+- javascript
+- html
+- css
+- aem
 comments:       false
 showMeta:       false
 showActions:    true
-clearReading: true
 #thumbnailImage: //example.com/image.jpg
+clearReading: true
 ---
 test

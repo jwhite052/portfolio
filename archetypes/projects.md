@@ -2,13 +2,15 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 categories:
-- portfolio
+- projects
 tags:
-- examples
+- project
+- showcase
 keywords:
-- portfolio
+- project
 comments:       false
 showMeta:       false
 showActions:    false
+clearReading:   true
 #thumbnailImage: //example.com/image.jpg
 ---

@@ -18,6 +18,7 @@ keywords:
 - formspree
 - hugo
 - ajax
+clearReading: true
 ---
 
 Back when I converted my site from WordPress to Hugo, one of the issues I had to take care of was setting up a processor for my contact form. I decided to go with Formspree as their free tier easily handled the amount of form submissions I got per month.

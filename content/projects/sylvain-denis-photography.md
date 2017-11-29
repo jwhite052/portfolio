@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Sylvain Denis Photography"
+date: 2017-10-30T20:07:49-04:00
 categories:
 - category
 - subcategory
@@ -11,7 +11,8 @@ keywords:
 - tech
 comments:       false
 showMeta:       false
-showActions:    false
-clearReading: false
+showActions:    true
 #thumbnailImage: //example.com/image.jpg
+clearReading: true
 ---
+test

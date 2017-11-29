@@ -1,5 +1,52 @@
 {{ partial "head.html" . }}
   <body>
+    <style>
+    .project-cards-container {
+      padding: 0 40px;
+    }
+    .project-cards-container::after {
+      content: '';
+      display: table;
+      clear: both;
+    }
+    .project-card {
+      position: relative;
+      box-sizing: border-box;
+      padding: 20px;
+      float: left;
+      width: 200px;
+      height: 200px;
+      margin: 20px 20px 0 0;
+      background-color: #ccc;
+      transition: ease .2s;
+    }
+    .project-card:hover {
+      background-color: purple;
+    }
+    /*.project-card:hover::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      content: '';
+      width: 100%;
+      height: 100%;
+      background-color: purple;
+      z-index: 0;
+      color: #fff;
+      transition: ease .3s;
+    }*/
+    .project-card__inner {
+      position: relative;
+      z-index: 1;
+    }
+    .project-card__title {
+      font-size: 21px;
+      transition: ease .3s;
+    }
+    .project-card:hover .project-card__title {
+      color: #fff;
+    }
+    </style>
     <div id="blog">
       {{ partial "header.html" . }}
       {{ partial "sidebar.html" . }}
@@ -7,8 +54,8 @@
         class="{{ with .Params.coverimage }}hasCover{{ end }}
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
-        <section class="postShorten-group main-content-wrap">
-          <h1>Projects</h1>
+        <section class="project-cards-container">
+          <h1 style="font-size: 72px; font-weight: 100; margin: .7em 0;">Projects</h1>
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages.ByWeight }}
             {{ .Render "summary" }}

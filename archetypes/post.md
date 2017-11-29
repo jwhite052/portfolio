@@ -9,9 +9,8 @@ tags:
 - tag2
 keywords:
 - tech
-comments:       false
-showMeta:       false
-showActions:    false
-clearReading: false
+clearReading: true
 #thumbnailImage: //example.com/image.jpg
 ---
+
+<!--more-->

@@ -10,6 +10,7 @@ thumbnailImagePosition: "top"
 thumbnailImage: /images/cover-philadelphia-bridge-750x255.jpg
 coverImage: /images/cover-philadelphia-bridge-1500x1000.jpg
 metaAlignment: center
+clearReading: false
 ---
 
 I'm a developer and designer actively pursuing my passion to provide digital design and development services. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the amazing shops, food, coffee drinks, music venues and activities Philadelphia has to offer.

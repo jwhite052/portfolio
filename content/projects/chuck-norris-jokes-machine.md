@@ -1,18 +1,23 @@
 ---
-title: "Vail Christian High School"
+title: "Chuck Norris Jokes Machine"
 date: 2017-10-30T20:07:49-04:00
 categories:
-- category
-- subcategory
+- project
 tags:
-- tag1
-- tag2
+- application
+- javascript
+- html
+- css
+- mvc
 keywords:
-- tech
+- javascript
+- html
+- css
+- mvc
 comments:       false
 showMeta:       false
 showActions:    true
-clearReading: true
 #thumbnailImage: //example.com/image.jpg
+clearReading: true
 ---
 test

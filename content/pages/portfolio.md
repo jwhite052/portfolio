@@ -20,6 +20,7 @@ metaAlignment: center
 # black, red, blue, purple
 coverOverlayColor: black
 #thumbnailImage: //example.com/image.jpg
+clearReading: false
 ---
 
 Coming soon...
