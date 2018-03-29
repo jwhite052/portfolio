@@ -30,7 +30,7 @@ clearReading: true
 # Technology Stack
 - Adobe Experience Manager (AEM), CQ5, Adobe Target
 - Custom AEM Components & Templates
-- Java, JSP, HTL/Slightly, JCR API
+- Java, JSP, HTL, JCR API
 - JavaScript, HTML, CSS
 - jQuery, Bootstrap, Google Maps API, Google Analytics
 - Eclipse, Maven, Git, Gitlab
