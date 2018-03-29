@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/pages/</link>
+    <description>Recent content in Pages on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 15:44:46 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toolkit</title>
+      <link>http://www.jashuawhite.com/toolkit/</link>
+      <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/toolkit/</guid>
+      <description>Below is my technology stack of hardware, software, languages, libraries, tools, and various resources that&amp;rsquo;ve I&amp;rsquo;ve grown to love and strive to master.
+Workstations  Apple MacBook Pro 13 Retina i5, 8GB RAM, 256 GB Mini ITX Gaming Desktop, 16GB Ram, 256 GB, i3 3.7GHz, RX 470 (Windows 10)  Text Editor  Atom (Mac/Windows)  HTML  Style guide: Code Guide by @mdo  CSS  Preprocessor: Sass Naming Conventions: BEM  JavaScript  Frontend Frameworks: AngularJS, Backbone.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.jashuawhite.com/about/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/about/</guid>
+      <description>I&amp;rsquo;m a developer and designer actively pursuing my passion to provide digital design and development services. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the amazing shops, food, coffee drinks, music venues and activities Philadelphia has to offer.
+Currently, I am a full-time Front-End Web Developer for Thomas Jefferson University Hospital &amp;ndash; a major medical university and healthcare provider in Philadelphia. Some of my responsibilities include: developing responsive web pages and components with a focus on user experience, designing templates for various departments and campaign sites, maintaining content, troubleshooting bugs, e-mail marketing, and developing for the front-end development side of our CMS, Adobe Experience Manager (AEM).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.jashuawhite.com/contact/</link>
+      <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/contact/</guid>
+      <description>@import url(&#39;https://fonts.googleapis.com/css?family=Press+Start+2P&#39;);Send Message.formspree-form {position: relative;}.submit-overlay-sending {position:fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;z-index: 1000;}.submit-overlay-sending__loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}.submit-overlay-sending__text {position: absolute;top: calc(50% + 115px);transform: translate(-50%, -50%);left: 50%;font-family: &#39;Press Start 2P&#39;, sans-serif;color: #fff;text-transform: uppercase;letter-spacing: .2em;}.submit-overlay-success {position:absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: calc(100% - 50px);height: calc(100% - 50px);background-color: rgba(0,0,0,0.</description>
+    </item>
+    
+  </channel>
+</rss>

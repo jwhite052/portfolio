@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mvc on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/tags/mvc/</link>
+    <description>Recent content in Mvc on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 20:07:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chuck Norris Jokes Machine</title>
+      <link>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</guid>
+      <description>See the Pen Random Quote Machine by Jashua White (@jashuawhite) on CodePen.
+
+Overview Through Freecodecamp, I was tasked with utilizing a quotes API of my choice to generate and display a random quote. I decided to play with it a bit and made a random joke generator by tapping into a Chuck Norris jokes API. The application allows for you to enter a custom name to be used in the jokes.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Calculator</title>
+      <link>http://www.jashuawhite.com/projects/javascript-calculator/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/javascript-calculator/</guid>
+      <description>See the Pen JavaScript MVC (Observer Pattern) Calculator by Jashua White (@jashuawhite) on CodePen.
+
+Overview A Freecodecamp challenge that involved creating a basic JavaScript calculator. I chose to build the application out following the MVC design model. It was a great way to re-familiarize myself with MVC techniques and JavaScript&amp;rsquo;s object oriented design patterns.</description>
+    </item>
+    
+  </channel>
+</rss>

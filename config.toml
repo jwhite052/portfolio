@@ -24,7 +24,7 @@ publishDir = "docs"
 
 [author]
   name = "Jashua R. White"
-  bio = "UI/UX aficionado with an interest in robotics, AI and deep learning technologies."
+  bio = "UI/UX aficionado with an interest in robotics, smart devices, and all things tech."
   job = "Front-End Web Developer"
   location = "Philadelphia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -63,6 +63,12 @@ publishDir = "docs"
   url = "/projects"
 [[menu.main]]
   weight = 5
+  identifier = "toolkit"
+  name = "My Toolkit"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-code\"></i>"
+  url = "/toolkit"
+[[menu.main]]
+  weight = 6
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"

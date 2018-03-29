@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/tags/css/</link>
+    <description>Recent content in Css on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 20:07:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chuck Norris Jokes Machine</title>
+      <link>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</guid>
+      <description>See the Pen Random Quote Machine by Jashua White (@jashuawhite) on CodePen.
+
+Overview Through Freecodecamp, I was tasked with utilizing a quotes API of my choice to generate and display a random quote. I decided to play with it a bit and made a random joke generator by tapping into a Chuck Norris jokes API. The application allows for you to enter a custom name to be used in the jokes.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Calculator</title>
+      <link>http://www.jashuawhite.com/projects/javascript-calculator/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/javascript-calculator/</guid>
+      <description>See the Pen JavaScript MVC (Observer Pattern) Calculator by Jashua White (@jashuawhite) on CodePen.
+
+Overview A Freecodecamp challenge that involved creating a basic JavaScript calculator. I chose to build the application out following the MVC design model. It was a great way to re-familiarize myself with MVC techniques and JavaScript&amp;rsquo;s object oriented design patterns.</description>
+    </item>
+    
+    <item>
+      <title>Jefferson Health &amp; University</title>
+      <link>http://www.jashuawhite.com/projects/jefferson-health/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/jefferson-health/</guid>
+      <description> 
+Technology Stack  Adobe Experience Manager (AEM), CQ5, Adobe Target Custom AEM Components &amp;amp; Templates Java, JSP, HTL/Slightly, JCR API JavaScript, HTML, CSS jQuery, Bootstrap, Google Maps API, Google Analytics Eclipse, Maven, Git, Gitlab MailChimp, Healthgrades  Projects  Jefferson Health Jefferson University Jefferson University Hospitals Sidney Kimmel Cancer Center Jefferson Orthopedics Campaign Jefferson Health Knee Surgery Campaign  </description>
+    </item>
+    
+    <item>
+      <title>Sea Machines</title>
+      <link>http://www.jashuawhite.com/projects/sea-machines/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/sea-machines/</guid>
+      <description>Overview A website designed and developed for a start-up company in Boston, MA. They specialize in developing autonomous boat technology. I was brought aboard to build out the sites new design, implement new features, restructure content, and make site updates as needed. Behind the scenes, the website runs on the static site generator platform Hugo. I was tasked to build additional sections, pages, and components for the site. I continue to maintain the site - updating news articles, troubleshooting bugs, and implementing new features and UI designs.</description>
+    </item>
+    
+    <item>
+      <title>Sylvain Denis Photography</title>
+      <link>http://www.jashuawhite.com/projects/sylvain-denis-photography/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/sylvain-denis-photography/</guid>
+      <description>Overview Sylvain came to me with a vision of his site&amp;rsquo;s redesign. After being left-behind and disatisfied by his previous developer, he counted on me to get things right. I decided WordPress was the way to go - allowing him to maintain and make updates as needed. The clean and visual site structure allows viewers to truly appreciate and experience his amazing photography. The responsive design and intuitive navigation invites users to explore all that Sylvain has to offer.</description>
+    </item>
+    
+    <item>
+      <title>Vail Christian High School</title>
+      <link>http://www.jashuawhite.com/projects/vail-christian-high-school/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/vail-christian-high-school/</guid>
+      <description>Overview A private high school based out in Colorado needed a modern, user-friendly website that would support their new enrollment initiatives. The new site would offer a sleek design and an improved user experience. The refresh was to attract prospective students and keep current students engaged and informed. The site&amp;rsquo;s structure and navigation was reorganized with attention to keeping content concise and actionable. Features like page section navigation and primary navigation with megamenu style dropdowns allow for quick and easy access to both important and deeper level content.</description>
+    </item>
+    
+  </channel>
+</rss>

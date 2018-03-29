@@ -3,7 +3,7 @@ $(document).ready(function() {
   var $fieldSubject = $form.find('input[name="subject"]');
   var $fieldEmail = $form.find('input[name="email"]');
   var $fieldMessage = $form.find('textarea[name="message"]');
-  var $formSubmit = $form.find('button');
+  var $formSubmit = $form.find('button[type="submit"]');
   var $formInputFields = $form.find('input[name="email"], textarea[name="message"]');
 
   /* Validation */
@@ -100,5 +100,8 @@ $(document).ready(function() {
   }
   function validateMessage(message) {
     return message.length >= 10 ? true : false;
+  }
+  function isFormValid() {
+
   }
 });

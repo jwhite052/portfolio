@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/tags/photoshop/</link>
+    <description>Recent content in Photoshop on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 20:07:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jefferson Health &amp; University</title>
+      <link>http://www.jashuawhite.com/projects/jefferson-health/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/jefferson-health/</guid>
+      <description> 
+Technology Stack  Adobe Experience Manager (AEM), CQ5, Adobe Target Custom AEM Components &amp;amp; Templates Java, JSP, HTL/Slightly, JCR API JavaScript, HTML, CSS jQuery, Bootstrap, Google Maps API, Google Analytics Eclipse, Maven, Git, Gitlab MailChimp, Healthgrades  Projects  Jefferson Health Jefferson University Jefferson University Hospitals Sidney Kimmel Cancer Center Jefferson Orthopedics Campaign Jefferson Health Knee Surgery Campaign  </description>
+    </item>
+    
+  </channel>
+</rss>
