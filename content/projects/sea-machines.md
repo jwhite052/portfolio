@@ -24,7 +24,7 @@ showActions:    true
 #thumbnailImage: //example.com/image.jpg
 clearReading: true
 ---
-<a href="https://sea-machines.com/" target="_blank"><img src="/images/projects-sea-machines-01.jpg" /></a>
+<a href="http://www.sea-machines.com/" target="_blank"><img src="/images/projects-sea-machines-01.jpg" /></a>
 
 # Overview
 A website designed and developed for a start-up company in Boston, MA. They specialize in developing autonomous boat technology. I was brought aboard to build out the sites new design, implement new features, restructure content, and make site updates as needed. Behind the scenes, the website runs on the static site generator platform Hugo. I was tasked to build additional sections, pages, and components for the site. I continue to maintain the site - updating news articles, troubleshooting bugs, and implementing new features and UI designs.
