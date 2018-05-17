@@ -1,18 +1,20 @@
 ---
-title: "About"
-date: 2017-09-26T18:33:23-04:00
-comments:       false
-showMeta:       false
-showActions:    true
-
+title: About
+date: 2017-09-26 18:33:23 -0400
+comments: false
+showMeta: false
+showActions: true
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: /images/cover-philadelphia-bridge-750x255.jpg
-coverImage: /images/cover-philadelphia-bridge-1500x1000.jpg
+thumbnailImagePosition: top
+thumbnailImage: "/images/cover-philadelphia-bridge-750x255.jpg"
+coverImage: "/images/cover-philadelphia-bridge-1500x1000.jpg"
 metaAlignment: center
 clearReading: false
----
+categories: []
+tags: []
+keywords: []
 
+---
 I'm a developer and designer actively pursuing my passion to provide digital design and development services. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the amazing shops, food, breweries, music venues and activities Philadelphia has to offer.
 
 Currently, I am a full-time Front-End Web Developer for Thomas Jefferson University Hospital &ndash; a major medical university and healthcare provider in Philadelphia. Some of my responsibilities include: developing responsive web pages and components with a focus on user experience, designing templates for various departments and campaign sites, maintaining content, troubleshooting bugs, e-mail marketing, and developing for the front-end development side of our CMS, Adobe Experience Manager (AEM).
