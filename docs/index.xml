@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jashua R. White</title>
+    <link>http://www.jashuawhite.com/</link>
+    <description>Recent content on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 18:15:15 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my home on the web</title>
+      <link>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</link>
+      <pubDate>Mon, 25 Sep 2017 18:15:15 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/2017/09/welcome-to-my-home-on-the-web/</guid>
+      <description>&lt;p&gt;So what&amp;rsquo;s the purpose of this site you ask? Great question &amp;ndash; I knew I&amp;rsquo;d like you. If I were to construct one of those meta-thinking, revolutionary, innovative, change-the-world type missions statements it would go something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A resource hub for those with a passion to educate, empower, and equip like-minded developers with the tools to create amazing applications.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chuck Norris Jokes Machine</title>
+      <link>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/chuck-norris-jokes-machine/</guid>
+      <description>See the Pen Random Quote Machine by Jashua White (@jashuawhite) on CodePen.
+
+Overview Through Freecodecamp, I was tasked with utilizing a quotes API of my choice to generate and display a random quote. I decided to play with it a bit and made a random joke generator by tapping into a Chuck Norris jokes API. The application allows for you to enter a custom name to be used in the jokes.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Calculator</title>
+      <link>http://www.jashuawhite.com/projects/javascript-calculator/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/javascript-calculator/</guid>
+      <description>See the Pen JavaScript MVC (Observer Pattern) Calculator by Jashua White (@jashuawhite) on CodePen.
+
+Overview A Freecodecamp challenge that involved creating a basic JavaScript calculator. I chose to build the application out following the MVC design model. It was a great way to re-familiarize myself with MVC techniques and JavaScript&amp;rsquo;s object oriented design patterns.</description>
+    </item>
+    
+    <item>
+      <title>Jefferson Health &amp; University</title>
+      <link>http://www.jashuawhite.com/projects/jefferson-health/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/jefferson-health/</guid>
+      <description> 
+Technology Stack  Adobe Experience Manager (AEM), CQ5, Adobe Target Custom AEM Components &amp;amp; Templates Java, JSP, HTL, JCR API JavaScript, HTML, CSS jQuery, Bootstrap, Google Maps API, Google Analytics Eclipse, Maven, Git, Gitlab MailChimp, Healthgrades  Projects  Jefferson Health Jefferson University Jefferson University Hospitals Sidney Kimmel Cancer Center Jefferson Orthopedics Campaign Jefferson Health Knee Surgery Campaign  </description>
+    </item>
+    
+    <item>
+      <title>Sea Machines</title>
+      <link>http://www.jashuawhite.com/projects/sea-machines/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/sea-machines/</guid>
+      <description>Overview A website designed and developed for a start-up company in Boston, MA. They specialize in developing autonomous boat technology. I was brought aboard to build out the sites new design, implement new features, restructure content, and make site updates as needed. Behind the scenes, the website runs on the static site generator platform Hugo. I was tasked to build additional sections, pages, and components for the site. I continue to maintain the site - updating news articles, troubleshooting bugs, and implementing new features and UI designs.</description>
+    </item>
+    
+    <item>
+      <title>Sylvain Denis Photography</title>
+      <link>http://www.jashuawhite.com/projects/sylvain-denis-photography/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/sylvain-denis-photography/</guid>
+      <description>Overview Sylvain came to me with a vision of his site&amp;rsquo;s redesign. After being left-behind and disatisfied by his previous developer, he counted on me to get things right. I decided WordPress was the way to go - allowing him to maintain and make updates as needed. The clean and visual site structure allows viewers to truly appreciate and experience his amazing photography. The responsive design and intuitive navigation invites users to explore all that Sylvain has to offer.</description>
+    </item>
+    
+    <item>
+      <title>Vail Christian High School</title>
+      <link>http://www.jashuawhite.com/projects/vail-christian-high-school/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/vail-christian-high-school/</guid>
+      <description>Overview A private high school based out in Colorado needed a modern, user-friendly website that would support their new enrollment initiatives. The new site would offer a sleek design and an improved user experience. The refresh was to attract prospective students and keep current students engaged and informed. The site&amp;rsquo;s structure and navigation was reorganized with attention to keeping content concise and actionable. Features like page section navigation and primary navigation with megamenu style dropdowns allow for quick and easy access to both important and deeper level content.</description>
+    </item>
+    
+    <item>
+      <title>Toolkit</title>
+      <link>http://www.jashuawhite.com/toolkit/</link>
+      <pubDate>Sun, 01 Oct 2017 15:44:46 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/toolkit/</guid>
+      <description>Below is my technology stack of hardware, software, languages, libraries, tools, and various resources that&amp;rsquo;ve I&amp;rsquo;ve grown to love and strive to master.
+Workstations  Apple MacBook Pro 13 Retina i5, 8GB RAM, 256 GB Mini ITX Gaming Desktop, 16GB Ram, 256 GB, i3 3.7GHz, RX 470 (Windows 10)  Text Editor  Atom (Mac/Windows)  HTML  Style guide: Code Guide by @mdo  CSS  Preprocessor: Sass Naming Conventions: BEM  JavaScript  Frontend Frameworks: AngularJS, Backbone.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.jashuawhite.com/about/</link>
+      <pubDate>Tue, 26 Sep 2017 18:33:23 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/about/</guid>
+      <description>I&amp;rsquo;m a developer and designer actively pursuing my passion to provide digital design and development services. When not working, I enjoy hiking, biking, kayaking, film, robotics, and exploring all the amazing shops, food, breweries, music venues and activities Philadelphia has to offer.
+Currently, I am a full-time Front-End Web Developer for Thomas Jefferson University Hospital &amp;ndash; a major medical university and healthcare provider in Philadelphia. Some of my responsibilities include: developing responsive web pages and components with a focus on user experience, designing templates for various departments and campaign sites, maintaining content, troubleshooting bugs, e-mail marketing, and developing for the front-end development side of our CMS, Adobe Experience Manager (AEM).</description>
+    </item>
+    
+    <item>
+      <title>Setting up an AJAX-based Formspree form</title>
+      <link>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</link>
+      <pubDate>Tue, 26 Sep 2017 12:22:44 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/2017/09/setting-up-an-ajax-based-formspree-form/</guid>
+      <description>&lt;p&gt;Back when I converted my site from WordPress to Hugo, one of the issues I had to take care of was setting up a processor for my contact form. I decided to go with Formspree as their free tier easily handled the amount of form submissions I got per month.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.jashuawhite.com/contact/</link>
+      <pubDate>Tue, 26 Sep 2017 12:20:30 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/contact/</guid>
+      <description>@import url(&#39;https://fonts.googleapis.com/css?family=Press+Start+2P&#39;);Send Message.formspree-form {position: relative;}.submit-overlay-sending {position:fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.9);display: none;z-index: 1000;}.submit-overlay-sending__loading-icon {position: absolute;top: 50%;transform: translate(-50%, -50%);left: 50%;}.submit-overlay-sending__text {position: absolute;top: calc(50% + 115px);transform: translate(-50%, -50%);left: 50%;font-family: &#39;Press Start 2P&#39;, sans-serif;color: #fff;text-transform: uppercase;letter-spacing: .2em;}.submit-overlay-success {position:absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: calc(100% - 50px);height: calc(100% - 50px);background-color: rgba(0,0,0,0.</description>
+    </item>
+    
+  </channel>
+</rss>

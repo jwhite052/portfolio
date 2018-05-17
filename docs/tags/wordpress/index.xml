@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Jashua R. White</title>
+    <link>http://www.jashuawhite.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Jashua R. White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 20:07:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jashuawhite.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sylvain Denis Photography</title>
+      <link>http://www.jashuawhite.com/projects/sylvain-denis-photography/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/sylvain-denis-photography/</guid>
+      <description>Overview Sylvain came to me with a vision of his site&amp;rsquo;s redesign. After being left-behind and disatisfied by his previous developer, he counted on me to get things right. I decided WordPress was the way to go - allowing him to maintain and make updates as needed. The clean and visual site structure allows viewers to truly appreciate and experience his amazing photography. The responsive design and intuitive navigation invites users to explore all that Sylvain has to offer.</description>
+    </item>
+    
+    <item>
+      <title>Vail Christian High School</title>
+      <link>http://www.jashuawhite.com/projects/vail-christian-high-school/</link>
+      <pubDate>Mon, 30 Oct 2017 20:07:49 -0400</pubDate>
+      
+      <guid>http://www.jashuawhite.com/projects/vail-christian-high-school/</guid>
+      <description>Overview A private high school based out in Colorado needed a modern, user-friendly website that would support their new enrollment initiatives. The new site would offer a sleek design and an improved user experience. The refresh was to attract prospective students and keep current students engaged and informed. The site&amp;rsquo;s structure and navigation was reorganized with attention to keeping content concise and actionable. Features like page section navigation and primary navigation with megamenu style dropdowns allow for quick and easy access to both important and deeper level content.</description>
+    </item>
+    
+  </channel>
+</rss>
