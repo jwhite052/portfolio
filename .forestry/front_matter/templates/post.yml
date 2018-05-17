@@ -1,0 +1,79 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: thumbnailImagePosition
+  label: Thumbnailimageposition
+  type: text
+  hidden: false
+  default: ''
+- name: metaAlignment
+  label: Metaalignment
+  type: text
+  hidden: false
+  default: ''
+- name: coverMeta
+  label: Covermeta
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - category
+  - subcategory
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - tag1
+  - tag2
+- name: keywords
+  label: Keywords
+  type: list
+  hidden: false
+  default:
+  - tech
+- name: clearReading
+  label: Clearreading
+  type: boolean
+  hidden: false
+  default: true
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: autoThumbnailImage
+  label: Autothumbnailimage
+  type: boolean
+  hidden: false
+  default: ''
+- name: thumbnailImage
+  label: Thumbnailimage
+  type: file
+  hidden: false
+  default: ''
+- name: coverImage
+  label: Coverimage
+  type: file
+  hidden: false
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
